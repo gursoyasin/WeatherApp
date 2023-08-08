@@ -17,7 +17,7 @@ struct WelcomeView: View {
         VStack{
             VStack(spacing: 20) {
                 
-                Text("Hava Durumu")
+                Text("Hava Durumu Şuan ")
                     .bold().font(.title)
                 
                 
